@@ -40,4 +40,3 @@ console.timeEnd('binarySearch - middleItem')
 console.time('binarySearch - lastItem')
 console.log(binarySearch(sortedList, lastItem));
 console.timeEnd('binarySearch - lastItem')
-
